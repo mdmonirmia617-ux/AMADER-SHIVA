@@ -1,0 +1,11 @@
+{
+  "name": "আমাদের সেবা",
+  "short_name": "সেবা",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8F7",
+  "theme_color": "#0B7F47",
+  "lang": "bn"
+}
